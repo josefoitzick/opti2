@@ -1,0 +1,15 @@
+
+Instancia: instancia0.json
+Estado: Infeasible
+Tiempo de ejecución: 0.03 segundos
+  No se encontró solución óptima.
+
+Instancia: instancia1.json
+Estado: Infeasible
+Tiempo de ejecución: 0.03 segundos
+  No se encontró solución óptima.
+
+Instancia: instancia2.json
+Estado: Infeasible
+Tiempo de ejecución: 0.03 segundos
+  No se encontró solución óptima.
