@@ -1,15 +1,164 @@
 
 Instancia: instancia0.json
-Estado: Infeasible
-Tiempo de ejecución: 0.03 segundos
-  No se encontró solución óptima.
+Estado: Optimal
+Tiempo de ejecución: 0.04 segundos
+Función objetivo (Z): 225.00
+Asignación de áreas a vehículos:
+  Área=1, Vehículo=1
+  Área=2, Vehículo=2
+  Área=3, Vehículo=1
+  Área=4, Vehículo=2
+  Área=5, Vehículo=1
 
 Instancia: instancia1.json
-Estado: Infeasible
+Estado: Optimal
 Tiempo de ejecución: 0.03 segundos
-  No se encontró solución óptima.
+Función objetivo (Z): 415.00
+Asignación de áreas a vehículos:
+  Área=1, Vehículo=1
+  Área=2, Vehículo=1
+  Área=3, Vehículo=2
+  Área=4, Vehículo=2
+  Área=5, Vehículo=2
+  Área=6, Vehículo=1
 
 Instancia: instancia2.json
-Estado: Infeasible
+Estado: Optimal
 Tiempo de ejecución: 0.03 segundos
-  No se encontró solución óptima.
+Función objetivo (Z): 470.00
+Asignación de áreas a vehículos:
+  Área=1, Vehículo=1
+  Área=2, Vehículo=1
+  Área=3, Vehículo=1
+  Área=4, Vehículo=2
+  Área=5, Vehículo=3
+  Área=6, Vehículo=3
+  Área=7, Vehículo=3
+  Área=8, Vehículo=2
+
+Instancia: instancia3.json
+Estado: Optimal
+Tiempo de ejecución: 0.04 segundos
+Función objetivo (Z): 410.00
+Asignación de áreas a vehículos:
+  Área=1, Vehículo=3
+  Área=2, Vehículo=1
+  Área=3, Vehículo=3
+  Área=4, Vehículo=3
+  Área=5, Vehículo=3
+  Área=6, Vehículo=1
+  Área=7, Vehículo=1
+  Área=8, Vehículo=1
+
+Instancia: instancia4.json
+Estado: Optimal
+Tiempo de ejecución: 0.05 segundos
+Función objetivo (Z): 644.00
+Asignación de áreas a vehículos:
+  Área=1, Vehículo=1
+  Área=2, Vehículo=1
+  Área=3, Vehículo=4
+  Área=4, Vehículo=4
+  Área=5, Vehículo=4
+  Área=6, Vehículo=4
+  Área=7, Vehículo=3
+  Área=8, Vehículo=2
+  Área=9, Vehículo=2
+  Área=10, Vehículo=1
+  Área=11, Vehículo=3
+  Área=12, Vehículo=1
+
+Instancia: instancia5.json
+Estado: Optimal
+Tiempo de ejecución: 0.04 segundos
+Función objetivo (Z): 598.00
+Asignación de áreas a vehículos:
+  Área=1, Vehículo=4
+  Área=2, Vehículo=4
+  Área=3, Vehículo=2
+  Área=4, Vehículo=1
+  Área=5, Vehículo=4
+  Área=6, Vehículo=1
+  Área=7, Vehículo=4
+  Área=8, Vehículo=1
+  Área=9, Vehículo=3
+  Área=10, Vehículo=2
+  Área=11, Vehículo=1
+
+Instancia: instancia6.json
+Estado: Optimal
+Tiempo de ejecución: 0.04 segundos
+Función objetivo (Z): 688.00
+Asignación de áreas a vehículos:
+  Área=1, Vehículo=1
+  Área=2, Vehículo=1
+  Área=3, Vehículo=2
+  Área=4, Vehículo=4
+  Área=5, Vehículo=4
+  Área=6, Vehículo=1
+  Área=7, Vehículo=1
+  Área=8, Vehículo=4
+  Área=9, Vehículo=4
+  Área=10, Vehículo=2
+  Área=11, Vehículo=3
+  Área=12, Vehículo=2
+
+Instancia: instancia7.json
+Estado: Optimal
+Tiempo de ejecución: 0.03 segundos
+Función objetivo (Z): 757.00
+Asignación de áreas a vehículos:
+  Área=1, Vehículo=1
+  Área=2, Vehículo=1
+  Área=3, Vehículo=3
+  Área=4, Vehículo=2
+  Área=5, Vehículo=4
+  Área=6, Vehículo=1
+  Área=7, Vehículo=4
+  Área=8, Vehículo=4
+  Área=9, Vehículo=2
+  Área=10, Vehículo=2
+  Área=11, Vehículo=3
+  Área=12, Vehículo=3
+  Área=13, Vehículo=4
+
+Instancia: instancia8.json
+Estado: Optimal
+Tiempo de ejecución: 0.04 segundos
+Función objetivo (Z): 785.00
+Asignación de áreas a vehículos:
+  Área=1, Vehículo=1
+  Área=2, Vehículo=1
+  Área=3, Vehículo=5
+  Área=4, Vehículo=4
+  Área=5, Vehículo=5
+  Área=6, Vehículo=2
+  Área=7, Vehículo=2
+  Área=8, Vehículo=5
+  Área=9, Vehículo=1
+  Área=10, Vehículo=1
+  Área=11, Vehículo=3
+  Área=12, Vehículo=5
+  Área=13, Vehículo=4
+  Área=14, Vehículo=3
+
+Instancia: instancia9.json
+Estado: Optimal
+Tiempo de ejecución: 0.04 segundos
+Función objetivo (Z): 920.00
+Asignación de áreas a vehículos:
+  Área=1, Vehículo=4
+  Área=2, Vehículo=4
+  Área=3, Vehículo=3
+  Área=4, Vehículo=2
+  Área=5, Vehículo=4
+  Área=6, Vehículo=5
+  Área=7, Vehículo=5
+  Área=8, Vehículo=3
+  Área=9, Vehículo=5
+  Área=10, Vehículo=3
+  Área=11, Vehículo=2
+  Área=12, Vehículo=4
+  Área=13, Vehículo=5
+  Área=14, Vehículo=3
+  Área=15, Vehículo=5
