@@ -17,6 +17,7 @@ def resolver_problema(instancia, output_file, instancia_id):
     a = instancia["a"]
     b = instancia["b"]
     Cost = instancia["Cost"]
+    Comb = instancia["Comb"]  # Costo de combustible
 
     # Crear el modelo de optimización
     model = pl.LpProblem("Optimización_Mantenimiento_Áreas_Verdes", pl.LpMinimize)
@@ -30,9 +31,9 @@ def resolver_problema(instancia, output_file, instancia_id):
 
     # Función objetivo: minimizar costos totales
     model += pl.lpSum(
-        x[area, vehiculo] * (Tij[str(area)][str(vehiculo)] + Cost[str(vehiculo)])
-        for area in areas
-        for vehiculo in vehiculos
+        x[area, vehiculo] * Comb[str(area)][str(vehiculo)] for area in areas for vehiculo in vehiculos
+    ) + pl.lpSum(
+        Cost[str(vehiculo)] for vehiculo in vehiculos
     )
 
     # Restricciones
