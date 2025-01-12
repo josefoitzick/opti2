@@ -74,3 +74,16 @@ Ejemplo: "Cost": {
 
 Esto significa que el costo diario de operar el vehículo 1 es 25 unidades, el del vehículo 2 es 20 unidades, y el del vehículo 3 es 15 unidades.
 
+# Comb:
+
+Representa el costo promedio del combustible (en CLP) que consume cada vehículo 𝑘 k al visitar el área 𝑖.
+
+Por ejemplo: "Comb": { "1": {"1": 3000, "2": 4000, "3": 5000} } significa que:
+
+El vehículo 1 gasta 3,000 CLP en combustible para el área 1.
+
+El vehículo 2 gasta 4,000 CLP en combustible para el área 1.
+
+El vehículo 3 gasta 5,000 CLP en combustible para el área 1.
+
+
